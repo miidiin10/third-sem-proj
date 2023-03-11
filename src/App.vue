@@ -1,12 +1,22 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <router-view></router-view>
+
+  <!-- <div>
+    <Counter />
+    
+  </div> -->
 </template>
 
-<style>
+<script>
+// import Counter from './views/Counter.vue'
+
+export default {
+  name: 'App',
+  // components: { Counter }
+}
+</script>
+
+<style>  
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
