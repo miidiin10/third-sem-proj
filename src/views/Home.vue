@@ -1,6 +1,6 @@
 <template>
-  <div class="home" id="rounded">
-    <router-link to="/counter">Enter Counter App</router-link>
+  <div class="home" >
+    <router-link to="/counter" class="link">⮞⮞Enter Counter App⮜⮜</router-link>
     <h1>AltSchool Third Semester Exam Project</h1>
     <footer>
         © Hameed Owoade
@@ -10,13 +10,23 @@
 
 
 <style>
+h1 {
+    font-size: larger;
+}
 .home {
     background-color: darkgray;
+    border-radius: 50px;
+    padding: 30px;
     color: white;
-    margin-top: 30%;
+    margin: 20%;
     font-family: 'Courier New', Courier, monospace;
 }
-#rounded {
-    border-radius: 50px;
+.link {
+    font-size: small;
+    text-decoration: none;
+    color: brown;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
 }
 </style>
