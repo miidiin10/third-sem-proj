@@ -16,11 +16,12 @@
     height: 100vh;
     background: repeating-linear-gradient(
       45deg,
-      #e50303 0px,
-      #e50303 20px,
+      #e5030355 0px,
+      #e5030355 20px,
       grey 20px,
       grey 40px
     );
+    
   }
 h1 {
     font-size: larger;
