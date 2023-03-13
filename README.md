@@ -1,4 +1,6 @@
 # third-sem-exam
+hosted link: 
+https://third-sem-proj-euzsqkuor-miidiin10.vercel.app
 
 ## Project setup
 ```
