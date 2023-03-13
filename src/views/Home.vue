@@ -27,6 +27,7 @@ h1 {
     font-size: larger;
 }
 .home {
+    font-size: xx-large;
     background-color: darkgray;
     border-radius: 50px;
     padding: 30px;
@@ -39,8 +40,8 @@ h1 {
     text-decoration: none;
     color: brown;
     background-color: white;
-    padding: 5px;
+    padding: 15px;
     border-radius: 10px;
-    
+    /* margin-top: 15px; */
 }
 </style>

@@ -53,7 +53,7 @@ export default {
     
   }
   .count {
-    font-size: x-large;    
+    font-size: xx-large;    
     outline: 1px solid white;
     background-color: brown;
     border-radius: 5px;
@@ -65,15 +65,19 @@ export default {
   }
   button {
     color: brown;
-    border-radius: 5px;
+    border-radius: 15px;
     border: 1px solid brown;
+    font-size: xx-large;
+    margin: 10px;
+    padding: 10px;
   }
   input {
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
     text-align: center;
     margin-bottom: 4px;
-    padding: 5px;
+    padding: 15px;
+    font-size: x-large;
   }
   input:focus{
     outline: 1px solid brown;
