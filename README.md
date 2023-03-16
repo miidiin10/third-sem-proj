@@ -1,6 +1,6 @@
 # third-sem-exam
 hosted link: 
-https://third-sem-proj-git-main-miidiin10.vercel.app
+https://third-sem-proj.vercel.app/counter
 
 
 ## Project setup
