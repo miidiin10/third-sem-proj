@@ -44,4 +44,10 @@ h1 {
     border-radius: 10px;
     /* margin-top: 15px; */
 }
+@media (min-width: 270px) and (max-width:320px) {
+    .link {
+        padding: 4px;
+        font-size: 10px;
+    }
+}
 </style>
